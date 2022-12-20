@@ -1,1 +1,3 @@
-# readme
+- 👋 Hi, I’m Mashud Ahmed 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning React 
