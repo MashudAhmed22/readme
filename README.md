@@ -11,14 +11,13 @@ Welcome to my GitHub profile! I'm a dedicated web and mobile application develop
 - Database: MongoDB,SQL,
 Firebase Realtime database
 - Version Control: Git, GitHub
-- ...
+- IDE: VS Code
 
 ### Get in Touch
 
 - LinkedIn: www.linkedin.com/in/mashudahmed
 - Email: mashud.hojai@gmail.com
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
-
--    
+- Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+   
 
