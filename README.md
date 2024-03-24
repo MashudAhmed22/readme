@@ -1,14 +1,15 @@
 # Mashud Ahmed
 
-## Web Developer
+## Full Stack Developer 
 
-Welcome to my GitHub profile! I'm a passionate web developer with experience in building modern and responsive web applications.
+Welcome to my GitHub profile! I'm a dedicated web and mobile application developer with expertise in crafting modern, responsive web applications and mobile applications.
 
 ### Skills
 
-- Frontend: HTML, CSS(Bootstrap5), JavaScript
-- Backend: Node.js
-- Database: MongoDB,SQL
+- Frontend: React, React Native,JavaScript,HTML, CSS, Bootstrap,Tailwind
+- Backend: Node.js,Express.js
+- Database: MongoDB,SQL,
+Firebase Realtime database
 - Version Control: Git, GitHub
 - ...
 
