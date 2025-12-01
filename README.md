@@ -1,4 +1,5 @@
 👋 Hi, I'm **Mashud**
+
 🚀 **Frontend Developer** | **Next.js • React • TypeScript • Tailwind CSS**
 
 I’m a passionate Frontend Developer with 2+ years of hands-on experience building modern, scalable, and high-performance web applications. I specialize in Next.js, React, TypeScript, and Tailwind CSS, creating clean UI experiences and integrating APIs with precision.
