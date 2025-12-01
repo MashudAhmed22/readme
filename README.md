@@ -1,27 +1,57 @@
-👨‍💻 About Me
+👋 Hi, I'm **Mashud**
+🚀 **Frontend Developer** | **Next.js • React • TypeScript • Tailwind CSS**
 
-Hi, I'm Mashud — a Frontend Developer with 2+ years of experience building fast, modern, and user-friendly web applications. I specialize in Next.js, React, TypeScript, Tailwind CSS, and integration of scalable APIs. I love turning clean UI designs into smooth, functional interfaces and writing maintainable, production-ready code.
+I’m a passionate Frontend Developer with 2+ years of hands-on experience building modern, scalable, and high-performance web applications. I specialize in Next.js, React, TypeScript, and Tailwind CSS, creating clean UI experiences and integrating APIs with precision.
 
-🔧 Tech Stack
+🔧 **Tech Stack**
+**Frontend**
 
-Frontend: Next.js, React.js, TypeScript, JavaScript, React Native
+     ⚛️ React.js, Next.js
 
-Styling: Tailwind CSS, CSS3, HTML5
+     🟦 TypeScript, JavaScript
 
-Backend: Node.js, Express.js, MongoDB
+     🎨 Tailwind CSS, Bootstrap, HTML5, CSS3
 
-Tools: Git, GitHub, VS Code, Postman
+     📱 React Native
 
-🚀 What I Do
+**Backend**
 
-Build reusable, responsive UI components
+    🔧 Node.js, Express.js
 
-Integrate APIs and manage data flows
+    🗄️ MongoDB, Firebase
 
-Improve performance, accessibility & user experience
+**Tools**
 
-Work with modern architectures & clean coding practices
+    🛠️ Git & GitHub
 
-🌟 Focus
+    🧪 Postman
 
-Creating beautiful, high-performance web apps that feel warm, modern, and intuitive.
+    🗃️ VS Code
+
+🌟**What I Do**
+
+   ✨ Build fast, responsive, and reusable components
+
+   ✨ Work with Next.js (App Router + API Routes)
+
+   ✨ Integrate REST APIs & handle dynamic data
+
+   ✨ Improve performance, accessibility & SEO
+
+   ✨ Write clean, maintainable, production-ready code
+
+📌 **Featured Skills**
+
+   🔹 Strong attention to detail
+
+   🔹 Clean UI/UX implementation
+
+   🔹 Problem-solving & debugging
+
+   🔹 Team collaboration with designers & backend
+
+📫 **Contact**
+
+   📧 Email: mashud.hojai@gmail.com
+
+  🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mashud-ahmed-07a200239/)
