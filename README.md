@@ -1,15 +1,18 @@
 # 👋 Hey, I'm Mashud Ahmed
 
-### 🚀 Frontend Engineer | React • Next.js • TypeScript | MERN | React Native
+### 🚀 Full Stack Developer | React • Next.js • TypeScript | React Native | Node.js
 
 <p align="center">
-  <a href="https://mashudahmed.vercel.app/">
+  <a href="https://mashudahmedportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/mashudahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@mashudahmed">
+  <a href="https://github.com/MashudAhmed22">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@msdvlogsofficial">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -18,118 +21,158 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Engineer** passionate about building scalable, high-performance and visually polished digital products.
+I'm a **Full Stack Developer** passionate about building scalable, high-performance and visually polished digital products.
 
-I specialize in:
-
-* ⚛️ React.js
-* ▲ Next.js
-* 🔷 TypeScript
-* 📱 React Native
-* 🟢 Node.js / Express.js
-* 🗄️ MongoDB / PostgreSQL
-* 🎨 Tailwind CSS / MUI
-* 🔄 Redux Toolkit / RTK Query
-* 🔐 REST APIs / JWT / OAuth
-* ⚡ Performance Optimization
-* 🧩 Scalable Frontend Architecture
-
-> **I don't just build interfaces — I build experiences.**
-
----
-
-## ⚡ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,firebase" />
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,vscode,figma" />
-</p>
-
----
-
-# 🚀 What I Build
+With **3+ years of hands-on experience**, I work across web and mobile applications, focusing on clean architecture, reusable components, great user experiences and production-ready solutions.
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🌐 Modern Web Applications                         │
-│  📱 Cross-platform Mobile Applications              │
-│  🎨 UI/UX & Design Systems                          │
-│  ⚡ High Performance Frontends                      │
-│  🔐 Authentication & Authorization                  │
-│  🔌 REST API Integrations                           │
-│  📊 Admin Dashboards & SaaS Platforms               │
-│  🏢 Business & Enterprise Applications              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+💻 Web Development
+📱 Mobile App Development
+⚡ Performance Optimization
+🎨 UI Development
+🔌 REST API Integration
+🔐 Authentication & Authorization
+🏗️ Scalable Frontend Architecture
+☁️ Cloud & Deployment
 ```
+
+> **I don't just write code — I build products that solve real problems.**
+
+---
+
+# ⚡ Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,firebase" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,vscode,figma" />
+</p>
+
+---
+
+# 🛠️ What I Do
+
+### 🌐 Web Development
+
+Building modern, responsive and scalable web applications using **React.js, Next.js and TypeScript**.
+
+* Responsive web applications
+* SaaS platforms
+* Admin dashboards
+* Enterprise applications
+* Reusable component systems
+* Performance-focused frontend development
+
+### 📱 Mobile App Development
+
+Building cross-platform mobile applications with **React Native**.
+
+* Android & iOS applications
+* Responsive mobile interfaces
+* API-driven applications
+* Authentication flows
+* Local data persistence
+* Production app releases
+
+### 🔌 API Integration
+
+Building reliable frontend-to-backend integrations.
+
+* REST APIs
+* RTK Query
+* Authentication
+* Authorization
+* Data fetching & caching
+* Third-party API integrations
+
+### 🎨 UI Development
+
+Turning designs and product ideas into polished interfaces.
+
+* Figma → React/Next.js
+* Responsive UI
+* Tailwind CSS
+* Design systems
+* Animations & interactions
+* UI improvements
 
 ---
 
 # 🧠 Currently Exploring
 
-* 🏗️ Advanced System Design — HLD & LLD
-* 🤖 AI Engineering & Generative AI
-* 🔎 RAG & AI-powered applications
-* 🧩 Advanced Next.js architecture
-* 🟢 NestJS & scalable backend systems
-* ☁️ Cloud & DevOps
-* 📈 Building SaaS products
+```text
+🏗️ System Design
+   ├── High-Level Design
+   └── Low-Level Design
+
+🤖 Artificial Intelligence
+   ├── Generative AI
+   ├── RAG
+   └── AI-powered Applications
+
+⚡ Advanced Frontend
+   ├── React
+   ├── Next.js
+   └── Performance Optimization
+
+🟢 Backend
+   ├── Node.js
+   ├── NestJS
+   └── PostgreSQL
+
+☁️ Cloud & DevOps
+   ├── AWS
+   ├── Docker
+   └── CI/CD
+```
 
 ---
 
-# 🔥 Featured Projects
+# 💻 My Development Philosophy
 
-### 🏢 Workforce360 LMS
+```javascript
+const mashud = {
+  role: "Full Stack Developer",
 
-> Role-based Learning Management System built for Admins, Instructors and Learners.
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    mobile: ["React Native"],
+    backend: ["Node.js", "Express", "NestJS"],
+    database: ["MongoDB", "PostgreSQL"]
+  },
 
-**Tech:** React • Next.js • TypeScript • Redux Toolkit • RTK Query • REST APIs
+  principles: [
+    "Write clean code",
+    "Build reusable components",
+    "Think about scalability",
+    "Optimize performance",
+    "Keep learning",
+    "Ship meaningful products"
+  ],
 
----
-
-### 📋 Pastebin Lite
-
-> Lightweight code-sharing platform with persistent storage.
-
-**Tech:** Next.js • TypeScript • PostgreSQL • Neon
-
----
-
-### 📱 VidFlow
-
-> Cloud-based mobile application for file storage and content management.
-
-**Tech:** React Native • TypeScript • REST APIs
-
----
-
-### 🏥 Healthcare Platform
-
-> Production-ready responsive healthcare website focused on accessibility, SEO and performance.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS
+  goal: "Build products people love to use 🚀"
+};
+```
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashudfd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashudfd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MashudAhmed22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashudAhmed22&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -137,64 +180,47 @@ I specialize in:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mashudfd&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MashudAhmed22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 My Contribution Journey
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mashudfd/mashudfd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/MashudAhmed22/MashudAhmed22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-# 💻 Coding Philosophy
-
-```javascript
-const mashud = {
-  role: "Frontend Engineer",
-
-  mindset: [
-    "Write clean code",
-    "Build scalable systems",
-    "Optimize performance",
-    "Keep learning",
-    "Ship meaningful products"
-  ],
-
-  favoriteStack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    mobile: ["React Native"],
-    backend: ["Node.js", "NestJS"],
-    database: ["MongoDB", "PostgreSQL"]
-  },
-
-  goal: "Build products that people love to use 🚀"
-};
-```
-
----
-
-# 📈 My Developer Journey
+# 📈 Developer Journey
 
 ```text
-Learning
-   ↓
-Building
-   ↓
-Breaking Things
-   ↓
-Debugging
-   ↓
-Understanding
-   ↓
-Optimizing
-   ↓
-Shipping 🚀
-   ↓
-Repeat ♾️
+        ┌───────────────┐
+        │    LEARN      │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    BUILD      │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    BREAK      │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   DEBUG 🐛    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   OPTIMIZE ⚡ │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   SHIP 🚀     │
+        └───────┬───────┘
+                ↓
+              REPEAT ♾️
 ```
 
 ---
@@ -209,45 +235,52 @@ Repeat ♾️
 * ☁️ Go deeper into Cloud & DevOps
 * 🎥 Create more developer content
 * 🌍 Collaborate with great engineers
+* 📚 Contribute to open source
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://mashudahmed.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
+<a href="https://mashudahmedportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/mashudahmed/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@mashudahmed">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://github.com/MashudAhmed22">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@msdvlogsofficial">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 💼 Open to Opportunities
+# 💼 Open to Opportunities
 
-I'm interested in working on:
+I'm interested in:
 
-**Frontend Engineering • React • Next.js • TypeScript • Full-Stack Applications • SaaS • AI Products**
+**Frontend Engineering • Full Stack Development • React • Next.js • TypeScript • React Native • SaaS • AI Products**
 
-If you're building something interesting, let's connect and create something awesome together.
+Whether it's a challenging engineering role, an interesting product, or a freelance collaboration — I'm always open to building something meaningful.
 
 ---
 
 <p align="center">
 
-### ⭐ If you find my work interesting, consider giving my repositories a star!
+### ⭐ If you like my work, consider starring my repositories!
 
 ### 🚀 Keep Building. Keep Learning. Keep Shipping.
 
-<img src="https://komarev.com/ghpvc/?username=mashudfd&style=for-the-badge&color=blue" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MashudAhmed22&style=for-the-badge" />
 
 </p>
